@@ -57,10 +57,10 @@ A fun and interactive **Snake Game** built with Python's `turtle` graphics libra
 
 ## 📸 **Screenshot**
 
-![Snake Game Screenshot](assets/Screenshot%2024-12-01%20182900.png)
+![Snake Game Screenshot](assets/Screenshot%202024-12-01%2020182900.png)
 
 
-![Snake Game Screenshot](assets/Screenshot%2024-12-01%20182907.png)
+![Snake Game Screenshot](assets/Screenshot%202024-12-01%2020182907.png)
 
 
 
